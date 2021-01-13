@@ -2,13 +2,13 @@
   <h1>
     <img src="assets/images/PokeList-Logo.svg">
   </h1>
-<a hrec="https://www.linkedin.com/in/soaresmilton/" target="_blank">
+<a hrec="https://www.linkedin.com/in/soaresmilton/" target="_blank"> Linkedin
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
-<a hrec="https://www.youtube.com/channel/UCMsbUh0LDOMQCTBdBXwkFiQ" target="_blank">
+<a hrec="https://www.youtube.com/channel/UCMsbUh0LDOMQCTBdBXwkFiQ" target="_blank"> YouTube
   <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a hrec="https://www.instagram.com/soaresmiltinho/" target="_blank">
+<a hrec="https://www.instagram.com/soaresmiltinho/" target="_blank"> Instagram
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </div>
